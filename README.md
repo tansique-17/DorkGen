@@ -20,7 +20,7 @@ Google Dorks Generator is a GUI-based application built using Python and the Cus
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Dorkgen.git
+   git clone https://github.com/tansique_17/Dorkgen.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -62,7 +62,7 @@ Google Dorks Generator is a GUI-based application built using Python and the Cus
 This tool is intended for educational and ethical security research purposes only. Unauthorized use against any target without explicit permission is strictly prohibited.
 
 ## License
-This project is licensed under the MIT License. See the (LICENSE)[./LICENSE] file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Author
 Tansique Dasari
